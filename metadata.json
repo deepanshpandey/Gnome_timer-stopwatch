@@ -1,0 +1,8 @@
+{
+    "uuid": "timer-stopwatch@deepansh",
+    "name": "Timer & Stopwatch",
+    "description": "Adds a timer and stopwatch to the GNOME top bar.",
+    "version": 1,
+    "shell-version": ["47"],
+    "url": "https://github.com/deepanshpandey/Gnome_timer-stopwatch"
+}

@@ -1,0 +1,17 @@
+.timer-stopwatch {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 10px;
+    color: #ffffff; /* Default color when running */
+    transition: color 0.2s ease-in-out;
+}
+
+.timer-stopwatch-paused {
+    color: #808080; /* Dark gray when paused */
+}
+
+.timer-stopwatch:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    transition: background-color 0.2s ease-in-out;
+}
