@@ -1,8 +1,12 @@
 {
-    "uuid": "timer-stopwatch@deepansh",
+    "uuid": "Gnome_timer-stopwatch@deepanshpandey",
     "name": "Timer & Stopwatch",
-    "description": "Adds a timer and stopwatch to the GNOME top bar.",
+    "description": "Adds a timer and stopwatch to the GNOME top bar. right ckick on the icon to swithc between timer/stopwatch. single clickt o start and double click to reset",
     "version": 1,
-    "shell-version": ["47"],
+    "shell-version": [
+        "45",
+        "46",
+        "47"
+    ],
     "url": "https://github.com/deepanshpandey/Gnome_timer-stopwatch"
 }
